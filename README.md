@@ -1,7 +1,8 @@
 # Gemini-Chatbot
 
 Getting Started
-Dependencies
+
+#Dependencies
 This code uses the following libraries:
 
 streamlit: for building the user interface.
