@@ -2,12 +2,16 @@
 
 Getting Started
 
-#Dependencies
+Dependencies
+
 This code uses the following libraries:
 
-streamlit: for building the user interface.
-gemini: for chat
-Gemini API key: Get it from Google AI Studio
+streamlit: 
+for building the user interface.
+gemini:
+for chat
+Gemini API key: 
+Get it from Google AI Studio
 Usage
 Follow these steps to set up and run the project:
 
